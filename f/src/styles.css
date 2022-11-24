@@ -1,0 +1,61 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  /* background: #343a40; */
+  /* background: #101426; */
+  color: var(--black);
+  /* background: linear-gradient(
+    106.37deg,
+    #ffe1bc 29.63%,
+    #ffcfd1 51.55%,
+    #f3c6f1 90.85%
+  ); */
+background: white;
+}
+.bg1 {
+  background-color: rgb(167, 167, 17);
+  /* background: linear-gradient(
+    106.37deg,
+    #ffe1bc 29.63%,
+    #ffcfd1 51.55%,
+    #f3c6f1 90.85%
+  ); */
+
+}
+
+.bg2 {
+  background-color: #ef9273 ;
+  /* background: linear-gradient(
+    106.37deg,
+    #ef9273 29.63%,
+    #fef9f8 41.55%,
+    #f3c6f1 70.85%
+  ); */
+
+}
+
+.tcol {
+  color: #211c36;
+  /* background: linear-gradient(
+    106.37deg,
+    #ffe1bc 29.63%,
+    #ffcfd1 51.55%,
+    #f3c6f1 90.85%
+  ); */
+
+}
+
+.bg3 {
+  background-color: #276ee9;
+  /* background: linear-gradient(
+    106.37deg,
+    #ffe1bc 29.63%,
+    #ffcfd1 51.55%,
+    #f3c6f1 90.85%
+  ); */
+
+}
